@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamtiwari29&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamtiwari29" /> </p>
+
 
 - 🔭 I’m currently working on **ReactJs**
 
@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamtiwari29&show_icons=true&locale=en" alt="shubhamtiwari29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamtiwari29&" alt="shubhamtiwari29" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamtiwari29&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamtiwari29" /> </p>
 
